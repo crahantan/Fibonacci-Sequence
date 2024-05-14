@@ -1,2 +1,2 @@
-# Secuencia-Fibonacci
-Programa escrito en java que permite obtener la secuencia Fibonacci con el numero de ciclos que se le otorgue.
+# Fibonacci Sequence
+A program written in Java that allows you to obtain the Fibonacci sequence with the number of cycles you are given.
